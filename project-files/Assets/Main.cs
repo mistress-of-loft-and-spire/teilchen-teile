@@ -41,7 +41,9 @@ public class Main : MonoBehaviour {
 
 	void Start ()
 	{
-
+		
+		Application.targetFrameRate = 30;
+		
 		for (int i = 0; i < 88; i++)
 		{
 			//Debug.Log(i);
