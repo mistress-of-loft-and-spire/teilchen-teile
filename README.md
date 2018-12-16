@@ -281,7 +281,7 @@ co-producing the installation with me
 this manual was written by nicole  
 and is licensed under the MIT License  
 
-version 1.1
+version 1.2
 
 teilchen/teile, 2018
 
