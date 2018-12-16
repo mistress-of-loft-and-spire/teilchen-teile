@@ -270,7 +270,9 @@ Check that all insulation is in order. Occasionally humid conditions/surfaces ca
 	USB Connector Type A
 	
     tested on Mac OS X 10.9.5 and Windows 10, 64bit
-	 
+    
+    built using Unity version 2018.1.1f1 (64bit)
+
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 many thanks to julia for  
