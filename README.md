@@ -46,6 +46,15 @@ manual
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=1IZpQnlsf40
+" target="_blank"><img src="https://img.youtube.com/vi/1IZpQnlsf40/0.jpg" 
+alt="video" width="1280" /></a>  
+[https://www.youtube.com/watch?v=1IZpQnlsf40](https://www.youtube.com/watch?v=1IZpQnlsf40)
+
+
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+
 ## Index
 
 </br>
@@ -281,7 +290,7 @@ co-producing the installation with me
 this manual was written by nicole  
 and is licensed under the MIT License  
 
-version 1.2
+version 1.3
 
 teilchen/teile, 2018
 
