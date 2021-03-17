@@ -1,0 +1,1 @@
+*Queer_crip_ing the play interface* was originally written in 2019 for a call for papers for the workshop *Methods, Theories, and Taking Action through Gender and Feminisms in HCI*, as organized by The Gender/Diversity in Informatics Systems (GeDIS) group at the University of Kassel and fempower.tech in Newcastle, UK.
