@@ -1,4 +1,13 @@
 
+![](https://raw.githubusercontent.com/voec/teilchen-teile/master/manual/pic02.png)
+![](https://raw.githubusercontent.com/voec/teilchen-teile/master/manual/pic01.png)
+![](https://raw.githubusercontent.com/voec/teilchen-teile/master/manual/pic03.png)
+
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=1IZpQnlsf40
+" target="_blank"><img src="https://img.youtube.com/vi/1IZpQnlsf40/0.jpg" 
+alt="video" width="1280" /></a>  
+[https://www.youtube.com/watch?v=1IZpQnlsf40](https://www.youtube.com/watch?v=1IZpQnlsf40)
+
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 teilchen/teile  
@@ -42,15 +51,6 @@ manual
 		
 		
 ```
-
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-
-
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=1IZpQnlsf40
-" target="_blank"><img src="https://img.youtube.com/vi/1IZpQnlsf40/0.jpg" 
-alt="video" width="1280" /></a>  
-[https://www.youtube.com/watch?v=1IZpQnlsf40](https://www.youtube.com/watch?v=1IZpQnlsf40)
-
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
