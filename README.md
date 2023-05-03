@@ -12,45 +12,6 @@ alt="video" width="1280" /></a>
 
 teilchen/teile  
 manual  
-  
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-  
-```
-
-
-
-
-                        touching others and  
-                        ourselves is very  
-                        important
-
-			
-			
-			
-			
-			
-
-
-                                                    you know, some domestic
-                                                    animals get sick if nobody
-                                                    pets them...
-
-
-										
-										
-										
-										
-										
-										
-										
-		Esther Nelson and Jackpine Savage
-		Touching, from the album Together,
-		1971, Dimension 5 Records
-		
-		
-		
-		
-```
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
